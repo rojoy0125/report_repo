@@ -17,7 +17,12 @@ public class Queennie {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+
+        System.out.print("HELLO WORLD!!!");
+        System.out.print("DONE CHANGES");
+
         System.out.print("MASTER COPY");
+
     }
     
 }
